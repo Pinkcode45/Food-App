@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+ 
+}
+
+
+
+
+
+button{
+  border:2px solid white;
+  padding: 5px;
+  
+  
+}
+
+/* @layer base {
+  button{
+    @apply border-black rounded-xl px-5 py-1
+  }
+} */
+
